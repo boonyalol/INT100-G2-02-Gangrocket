@@ -109,8 +109,8 @@ Email :
 - การแต่งตัว
 
 ## contact ##
-Github : [KenKenKub] (https://github.com/KenKenKub)
-Instargram : [xphrnkx] (https://www.instagram.com/xphrnkx/?utm_source=ig_web_button_share_sheet)
+Github : [KenKenKub](https://github.com/KenKenKub)
+Instargram : [xphrnkx](https://www.instagram.com/xphrnkx/?utm_source=ig_web_button_share_sheet)
 Email : phurin.k123@gmail.com
 
 # 4. #
